@@ -11,6 +11,6 @@ STEPS TO RUN:
 
 4- All set to Go.
 
-NOTE :- Welcome file is name as "Start.html" and "NewFile.jsp" is the home page.
+NOTE :-  "Start.html" is the welcome file and "NewFile.jsp" is the home page.
 
 FORK THIS PROJECT, IF YOU FIND IT USEFUL IN ONE WAY OR ANOTHER.
